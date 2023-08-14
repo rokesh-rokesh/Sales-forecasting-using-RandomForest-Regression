@@ -2,6 +2,9 @@
 
 In this project, I undertook the challenge of optimizing sales forecasting accuracy using advanced machine learning techniques. Leveraging a Random Forest Regressor model, I successfully achieved a remarkable R-squared value of 0.98, indicating an exceptional predictive performance.
 
+![sales](https://github.com/rokesh-rokesh/sales-forecasting/assets/84179582/9d797c1e-0ad1-4f2a-87d2-5769eae7649e)
+
+
 
 **Data Exploration and Preparation**: I thoroughly examined historical sales data, identifying patterns, trends, and seasonality factors. Careful data preprocessing ensured the data's quality and suitability for modeling.
 
